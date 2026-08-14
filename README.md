@@ -1,0 +1,1 @@
+# -Program-to-calculate-simple-and-compound-interest-using-Principal-Rate-ad-Time.
